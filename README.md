@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-🔭 I’m currently working on BI \n
-🌱 I’m currently learning Rust
+- 🔭 I’m currently working on BI
+- 🌱 I’m currently learning Rust
 <!--
 **uniquefan/uniquefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
